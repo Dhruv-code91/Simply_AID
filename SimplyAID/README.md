@@ -241,7 +241,3 @@ npm run seed
 | `npm run preview` | Preview production build |
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
